@@ -1,0 +1,17 @@
+# Xmake cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
+
+.vscode/
+data/
+
+FlameGraph/
+perf.data
+perf.data.old
+gprof-helper.c
+*.er
+result*/
+ecai_result/
